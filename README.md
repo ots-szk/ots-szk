@@ -1,3 +1,11 @@
+<p align="left">
+  <a href="https://github.com/ots-szk">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ots-szk" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
