@@ -1,8 +1,5 @@
 <p align="left">
   <a href="https://github.com/ots-szk">
-    <img height="20" src="https://komarev.com/ghpvc/?username=ots-szk" />
-  </a>
-  <a href="https://github.com/ots-szk">
     <img height="20" src="https://img.shields.io/github/followers/ots-szk?label=follow&logo=github&style=flat" />
   </a>
 
