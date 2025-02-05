@@ -14,10 +14,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=latex,md,postgres,github,git)](https://skillicons.dev)
 
+<br>
+
 ## Lerning
 
 [![Lerning](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
 
+<br>
+
+## Activity
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ots-szk&theme=vue-dark&layout=compact" />
 </div>
