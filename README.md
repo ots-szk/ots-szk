@@ -6,8 +6,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a guraduate student.
-- 🌱 I’m currently learning go!
+- 🧑‍🎓: I'm a guraduate student.
+- I like jrleq in docummentclass of latex.
 <br>
 
 ## My Skills
@@ -22,11 +22,11 @@
 
 <br>
 
-## Contact
+## Contact (Click Icons! )
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:1ng1016s@gm.komazawa-u.ac.jp)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1301922491043807263)  
-Gmailは4月以降異なるので、注意してください。
+⚠️ : The Gmail address will be changed starting in April.
 
 <br>
 
