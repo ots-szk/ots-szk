@@ -22,6 +22,12 @@
 
 <br>
 
+## Contact
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:1ng1016s@gm.komazawa-u.ac.jp)
+
+
+<br>
 ## Activity
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ots-szk&theme=vue-dark&layout=compact" />
