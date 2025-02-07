@@ -25,11 +25,13 @@
 ## Contact
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:1ng1016s@gm.komazawa-u.ac.jp)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1301922491043807263)
-
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1301922491043807263)  
+Gmailは4月以降異なるので、注意してください。
 
 <br>
+
 ## Activity
+
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ots-szk&theme=vue-dark&layout=compact" />
 </div>
