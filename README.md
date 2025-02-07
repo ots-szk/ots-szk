@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:1ng1016s@gm.komazawa-u.ac.jp)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1301922491043807263)  
-⚠️ : The Gmail address will be changed starting in April.
+⚠️ : The Gmail address will be changed from April.
 
 <br>
 
