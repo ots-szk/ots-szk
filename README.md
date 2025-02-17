@@ -18,7 +18,7 @@
 
 ## Lerning
 
-[![Lerning](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev)
+![Lerning](https://skillicons.dev/icons?i=py,r)
 
 <br>
 
@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://skillicons.dev
 -->
