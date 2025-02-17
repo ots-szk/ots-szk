@@ -12,7 +12,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=latex,md,postgres,github,git)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=latex,md,postgres,github,git)
 
 <br>
 
