@@ -8,6 +8,7 @@
 
 - 🧑‍🎓: I'm a guraduate student.
 - I like jlreq in documentclass of latex.
+- Which is Digital map Hot-media or Cold-media ?
 <br>
 
 ## My Skills
